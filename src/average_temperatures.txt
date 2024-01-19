@@ -1,0 +1,7 @@
+Moscow: -1.4
+Minsk: 0.8
+Amsterdam: -5.0
+Moscow: -1.4
+Minsk: 0.8
+Amsterdam: -4.0
+Moscow: -1.4
